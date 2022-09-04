@@ -46,7 +46,7 @@ public class HomeWork {
      */
 
     private static String welcome (String name) {
-        System.out.println("Привет ");
+        System.out.println("Привет!");
         return "Привет, " + name;
     }
 
