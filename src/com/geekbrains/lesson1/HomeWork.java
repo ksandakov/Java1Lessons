@@ -24,7 +24,7 @@ public class HomeWork {
      */
 
     private static boolean checkTwoNumbers (int a, int b) {
-        int sum = a +b;
+        int sum = a + b;
         return sum <= 20 && sum >= 10;
     }
 
